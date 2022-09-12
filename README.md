@@ -5,6 +5,8 @@ First a button that when interacted by ui returns a random value of false or tru
 
 Second a button with a "default" state that when clicked, calls the mentioned service and changes to the "loading" state. When the response from the service is obtained, the button should change to "success" or "error" depending on the response.
 
+> This project has been deployed in Vercel: <a href="https://zizeron-tech-challange.vercel.app/">Press here to visit it</a>
+
 ## Getting Started
 
 First, run the development server:
